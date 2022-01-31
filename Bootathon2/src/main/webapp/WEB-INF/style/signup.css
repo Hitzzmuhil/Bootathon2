@@ -1,0 +1,60 @@
+@charset "ISO-8859-1";
+:root{
+    --backmain : #f8f7f2;
+    --fonmain : 'Dancing Script', cursive;
+
+}
+
+#sn1{
+    background-color: #ccbae5 !important;
+}
+
+.card{
+    margin-top: 10%;
+    
+    transition: 3s;
+}
+.card:not(:hover){
+    box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+}
+
+.card:hover{
+    
+    opacity: 0.9;
+}
+
+.btn{
+    margin-top: 2%;
+   font-family: var(--fonmain);
+}
+
+
+.a1{
+    margin-left: 3%;
+    font-family: var(--fonmain);
+}
+.ul1{
+    margin-top: 5%;
+}
+.xt1{
+    margin-top: 1%;
+    font-family: var(--fonmain);
+    font-size: x-large;
+}
+
+.text-end{
+    margin-top: 20%;
+}
+
+.xt2{
+    font-family: var(--fonmain);
+}
+
+.xps{
+    margin-top: 5%;
+}
+
+#face8{
+    height: 100px;
+    background-color: #ccbae5;
+}

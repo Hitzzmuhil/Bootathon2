@@ -1,0 +1,38 @@
+@charset "ISO-8859-1";
+:root{
+    --backmain : #f8f7f2;
+    --fonmain : 'Dancing Script', cursive;
+
+}
+
+#sn1111{
+    background-color: #191932 !important;
+}
+.nav-link{
+    color: white !important;
+}
+#nb{
+    color: white;
+}
+
+#copytags{
+    color: white;
+}
+#face5{
+    background-color: #191932;
+}
+
+#xpa{
+    font-family:var(--fonmain);
+    font-size: 25px;
+}
+
+.navbar-toggler-icon{
+    background-color: white !important;
+}
+.navbar-toggler{
+    background-color: white !important;
+}
+.form-control:focus{
+    border: 1px solid #191932 !important;
+}

@@ -1,0 +1,68 @@
+@charset "ISO-8859-1";
+@charset "ISO-8859-1";
+:root{
+    --fonti : 'Open Sans Condensed', sans-serif;
+    --backmain : #f8f7f2;
+    --fonmain : 'Dancing Script', cursive;
+}
+
+.card{
+   
+    /* box-shadow: 1px 0px 10px rgba(0,0,0, .2); */
+}
+.cb{
+    height:500px;
+    
+    
+}
+.carousel{
+    object-fit: cover;
+    transition: 1s;
+}
+
+.d-block{
+    height: 470px;
+    width: 800px;
+    object-fit: cover;
+}
+.dis{
+    border: 1px solid rgb(224, 224, 224) !important;
+    background-color: white !important;
+}
+#xe{
+	font-weight:bold;
+	font-size:25px;
+}
+.xs{
+	font-family: var(--fonti);
+	font-size:40px;
+}
+.xp{
+    font-family: var(--fonti);
+    font-size: 20px;
+}
+.tp{
+	margin-top:160px;
+}
+.cr{
+	
+    border: 1px solid white !important;
+    width: 80%;
+}
+.cr:hover{
+	box-shadow:none;
+}
+
+.xp1{
+    font-family: var(--fonti);
+    font-weight: 100;
+}
+
+#llp{
+    font-family: var(--fonmain);
+    margin-left: 3%;
+}
+#lllp{
+    margin-left: 70%;
+    font-family: var(--fonmain);
+}

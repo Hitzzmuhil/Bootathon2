@@ -1,0 +1,52 @@
+@charset "ISO-8859-1";
+:root{
+    --backmain : #f8f7f2;
+    --fonmain : 'Dancing Script', cursive;
+
+}
+.xs{
+    height: 370px !important;
+    object-fit:cover;
+}
+
+.btn1{
+   
+    font-family: var(--fonmain);
+    background-color: rgb(117, 116, 116);
+}
+.btn1:not(:hover){
+   background-color: black;
+}
+
+
+#lp1{
+    margin-bottom: 5%;
+    font-family: var(--fonmain);
+}
+#lp22{
+    margin-bottom: 5%;
+    font-family: var(--fonmain);
+}
+#descp{
+    resize: none;
+    height: 200px;
+}
+
+.btnx:focus{
+    box-shadow: none !important;
+}
+
+#file1{
+    display: none;
+}
+.h2s{
+    font-family: var(--fonmain);
+}
+
+
+#hnav{
+    background-color: #490648 !important;
+}
+.nav-link,.navbar-brand{
+    color: white !important;
+}

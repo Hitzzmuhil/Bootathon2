@@ -1,0 +1,56 @@
+@charset "ISO-8859-1";
+:root{
+    --backmain : #f8f7f2;
+    --fonmain : 'Dancing Script', cursive;
+
+}
+#sn1{
+    background-color: rgb(212, 212, 212) !important;
+}
+
+
+.xpx{
+    background-color: #20e5e0;
+}
+
+.tt1{
+    font-family: var(--fonmain);
+    margin-top: 17%;
+    text-decoration: underline;
+}
+.ch1{
+
+    margin-top: 20%;
+    margin-left: 10%;
+    transform: rotate(-20deg);
+    width: 70%;
+}
+
+#photo{
+    height: 100%;
+}
+
+.i11{
+    
+    box-shadow: none !important;
+    font-family: var(--fonmain);
+}
+
+.i11:focus{
+    border: 1px solid #20e5e0 !important;    
+}
+#pp{
+    margin-top: 10%;
+}
+#pp1{
+    margin-top: 15%;
+}
+
+
+
+
+@media only screen and (max-width: 800px){
+    #pp1{
+        margin-top:3%;
+    }
+}

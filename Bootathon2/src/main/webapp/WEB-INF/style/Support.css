@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+:root{
+    --fonti : 'Open Sans Condensed', sans-serif;
+}
+
+.hhh{
+    font-family: var(--fonti);
+    font-size: 45px;
+    margin-top: 100px;
+}
+.ima{
+    margin-left: 40%;
+}
+.me-2{
+    font-family: var(--fonti) !important;
+}
+.tq{
+    resize: none;
+    height: 300px;
+}
