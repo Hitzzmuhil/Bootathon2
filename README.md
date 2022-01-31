@@ -1,1 +1,2 @@
-Online Bidding ProtoType Application
+ONLINE BIDDING PROTOTYPE APPLICATION
+
